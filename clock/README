@@ -1,0 +1,24 @@
+##### by taitooz
+
+Clock es un proyecto que muestra los angulos generados entre las manecillas de
+un reloj analogo.
+--
+Es un proyecto maven y provee dos formas en las cuales puede ser corrido
+--
+1-La primera es ejecutando el jar generado luego de correr mvn clean install; en 
+el directorio padre que contiene el pom.xml. Esta forma de ejecucion es una
+forma visual de ver los angulos generados en un reloj analogo visual.
+2-La segunda forma es ejecutando la clase clockAngles ya que posee su propio 
+metodo main, esta corrida da como resultado una aplicacion por consola que pide
+las horas:minutos:segundos para luego devolver el valor del angulo generado.
+--
+Posee un solo test para comprobar el calculador de los angulos. 
+ClockAnglesTest.java, ya que esta es la unica clase importante a testear del 
+proyecto.
+
+
+###
+
+01000101011011000010000001110011011001010110111001110100011010010110010001101111
+00100000011001000110010100100000011101000110111101100100011011110011101000100000
+001101000011001000101110

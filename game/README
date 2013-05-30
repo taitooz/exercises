@@ -1,0 +1,18 @@
+##### by taitooz
+--
+Esta app es solo para cubrir motivos teoricos. Es una representacion del juego
+piedra, papel o tijera.
+El consepto completo que prueba la app es el doble dispaching y el polimofirmo
+que son conseptos fundamentales en la programacion orientada a objetos.
+--
+La unica forma de probar el buen funcionamiento de dicha app es corriendo el 
+unico test -> AppTest.java <- que comprueba la combinatoria de comparaciones 
+entre los objetos Elements implicados.
+
+
+###
+
+01000101011011000010000001110011011001010110111001110100011010010110010001101111
+00100000011001000110010100100000011101000110111101100100011011110011101000100000
+001101000011001000101110
+
