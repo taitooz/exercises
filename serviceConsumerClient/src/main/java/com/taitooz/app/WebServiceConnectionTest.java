@@ -13,7 +13,7 @@ import javax.xml.ws.WebServiceRef;
  * Date: 6/26/13
  * Time: 5:15 PM
  */
-public class TestConnection {
+public class WebServiceConnectionTest {
   
   @WebServiceRef(wsdlLocation = "http://wsf.cdyne.com/SpellChecker/check.asmx?WSDL")
   private static Check service = new Check();
