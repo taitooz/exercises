@@ -43,7 +43,6 @@ public class Ejercicio_19 {
         }
     }
 
-
     public static void actualizar_arreglo_indices(int[] orden1, int posicion, int tamanio) {
         int indice = 0;
         while (indice < MAX - 1) {
@@ -60,7 +59,6 @@ public class Ejercicio_19 {
             }
         }
     }
-
 
     public static void eliminar_secuencia(int[] arrint, int posicion) {
         int fin, pos, tamanio;
